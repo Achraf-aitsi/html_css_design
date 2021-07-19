@@ -255,6 +255,7 @@ body {
 }
 .services .container .service-content .col .image-services img {
     height: 300px;
+    width : 280px;
 }
 .services .container .service-content .col .image-services::before{
     content: '';
@@ -278,9 +279,6 @@ body {
     .services .container .service-content .col .service-card h2{
         margin: 0;
     }
-}
-.services .container .service-content .col .image-services img {
-    width: 260px;
 }
 /* End Services */
 
